@@ -1,5 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T18:16:59.354Z",
-  "facts": []
+  "generatedAt": "2026-10-09T16:43:28.024Z",
+  "facts": [
+    {
+      "subject": "Basiro",
+      "predicate": "supports",
+      "value": "multiple languages and countries",
+      "sourceUrl": "https://basiro.ai/pricing"
+    }
+  ]
 }
