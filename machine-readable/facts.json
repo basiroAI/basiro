@@ -1,12 +1,87 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T16:49:20.976Z",
+  "generatedAt": "2026-10-09T18:33:56.478Z",
   "facts": [
+    {
+      "subject": "Basiro Growth plan",
+      "predicate": "monthlyPrice",
+      "value": "$149"
+    },
     {
       "subject": "Basiro",
       "predicate": "supports",
       "value": "multiple languages and countries",
       "sourceUrl": "https://basiro.ai/pricing"
+    },
+    {
+      "subject": "Basiro",
+      "predicate": "supports",
+      "value": "Claude"
+    },
+    {
+      "subject": "Basiro Scale plan",
+      "predicate": "monthlyPrice",
+      "value": "$499"
+    },
+    {
+      "subject": "Basiro",
+      "predicate": "supports",
+      "value": "ChatGPT"
+    },
+    {
+      "subject": "Basiro",
+      "predicate": "supports",
+      "value": "Perplexity"
+    },
+    {
+      "subject": "Basiro",
+      "predicate": "supports",
+      "value": "healthcare"
+    },
+    {
+      "subject": "faq: What is AI visibility?",
+      "predicate": "faqAnswer",
+      "value": "It is how a brand appears when people ask an AI answer engine whom to choose: whether the brand is named, whether the answer is accurate, and which source is cited."
+    },
+    {
+      "subject": "Basiro",
+      "predicate": "supports",
+      "value": "Gemini"
+    },
+    {
+      "subject": "Basiro",
+      "predicate": "plan",
+      "value": "Enterprise"
+    },
+    {
+      "subject": "Basiro",
+      "predicate": "supports",
+      "value": "insurers"
+    },
+    {
+      "subject": "faq: Do you work in regulated industries?",
+      "predicate": "faqAnswer",
+      "value": "Yes. For banks, insurers and healthcare, Basiro works only on approved company and product facts, and every change goes through the customer's compliance review."
+    },
+    {
+      "subject": "faq: What is the cheapest plan with AI traffic and crawler monitoring?",
+      "predicate": "faqAnswer",
+      "value": "The Growth plan at $149 per month. The Free Audit at $0 does not include it."
+    },
+    {
+      "subject": "faq: How long does it take?",
+      "predicate": "faqAnswer",
+      "value": "Measure in weeks 1 to 2, improve in weeks 3 to 8, and verify the result in weeks 9 to 12. After that it stays on, because AI answers change every week."
+    },
+    {
+      "subject": "faq: Can Basiro guarantee first place?",
+      "predicate": "faqAnswer",
+      "value": "No. Basiro does not guarantee first place or a citation. It measures, recommends improvements, and verifies whether a later answer cites the page you intended."
+    },
+    {
+      "subject": "faq: Which AI assistants does Basiro measure?",
+      "predicate": "faqAnswer",
+      "value": "Basiro monitors leading AI answer engines such as ChatGPT, Gemini, Claude and Perplexity. This is a measurement capability, not a partnership or endorsement."
     }
   ]
 }
