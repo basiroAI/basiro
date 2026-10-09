@@ -16,3 +16,4 @@ Public-safe source list. Private uploads never expose storage URLs.
 - **https://basiro.ai/pricing** (WEBSITE) — https://basiro.ai/pricing (verified 2026-10-07)
 - **https://basiro.ai/#faq** (WEBSITE) — https://basiro.ai/#faq (verified 2026-10-07)
 - **https://basiro.ai/llms.txt** (WEBSITE) — https://basiro.ai/llms.txt (verified 2026-10-07)
+- **README.md** (USER_UPLOAD) — Customer-provided document — privately verified
